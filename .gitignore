@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Файлы конфигурации IDE PyCharm
+.idea/
+*.iml
+# Файлы временных данных
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
